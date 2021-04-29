@@ -1,4 +1,4 @@
-# Algorithms-and-data-structures
+# Algorithms-and-data-structures ![](https://img.shields.io/badge/language-C%2B%2B-blue) 
 ## All assignments:
 * [`Timus 1014` Product of Digits](1014.cpp)
 * [`Timus 1047` Simple Calculations](1047.cpp)
