@@ -1,5 +1,5 @@
 # Algorithms-and-data-structures
-## All assigments:
+## All assignments:
 * [`1014` Product of Digits](1014.cpp)
 * [`1047` Simple Calculations](1047.cpp)
 * [`1112` Cover](1112.cpp)
